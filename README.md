@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hello! My name is Adrian, and I am an aspiring software engineer with a background in Engineering Management. I love solving problems, taking on challenges and learning new things to build projects that are exciting! I also love getting outdoors, travelling and playing sports.
+
+I am confident working with Python, JavaScript, SQL as well as a number of libraries and frameworks such as Vue.js, node.js, Flask.
+
+- 🔭 I’m currently working on deepening my understanding of Vue.js and deploying full-stack web apps.
+- 🌱 I’m currently learning system design architecture, app security and making my apps look pretty.
+
 <!--
 **Montags24/Montags24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
