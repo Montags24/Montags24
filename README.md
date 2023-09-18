@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **deepening my understanding of Vue.js and deploying full-stack web apps.**
 
-- 👯 I’m looking to collaborate on **system design architecture, app security and making my apps look pretty.**
+- 🌱 I’m currently learning on **system design architecture, app security and making my apps look pretty.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
