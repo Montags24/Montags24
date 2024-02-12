@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">I am a software engineer with a background in Engineering Management. I love solving problems, taking on challenges and learning new things to build projects that are exciting! I also love getting outdoors, travelling and playing sports.</h3>
 
-- 🔭 I’m currently working on **deepening my understanding of Vue.js and deploying full-stack web apps.**
+- 🔭 I’m currently working on **deploying full-stack web apps with Python, Vue and MySQL.**
 
-- 🌱 I’m currently learning on **system design architecture, app security and making my apps look pretty.**
+- 🌱 I’m currently learning **DevOps and automating CI/CD pipelines with GitHub Actions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
